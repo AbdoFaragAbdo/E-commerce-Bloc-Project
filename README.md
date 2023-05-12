@@ -14,9 +14,6 @@ An E-Commerce app, I made by using flutter, REST API, and State Management (Bloc
    - carousel_slider: ^4.0.0
    - flutter_svg: ^1.0.0
 
-## Screen record
-
-https://user-images.githubusercontent.com/97626133/149251997-873f485a-dc80-4c23-8b09-6eb2a7953f39.mp4
 
 ## Screen shots
 
